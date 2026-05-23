@@ -1,11 +1,16 @@
-# Programaria-EuProgr{amo}
+# Programaria
 
-A Programaria é um negócio de impacto social que tem como objetivo aumentar a diversidade na tecnologia. Os cursos, eventos e ações impactam mulheres cis e trans e outros gêneros minorizados para impulsionar oportunidades e conexões entre esses talentos e realizar mudanças no mercado
+A Programaria é um projeto de impacto social que tem como objetivo aumentar a diversidade na tecnologia. Os cursos, eventos e ações impactam mulheres cis e trans e outros gêneros minorizados para impulsionar oportunidades e conexões entre esses talentos e realizar mudanças no mercado.
 
 
-## Curso realizado
+## Cursos realizados ✅
 
-- No momento estou cursando o "Front-End, minha primeira página web!", onde estou aprendendo conceitos básicos de HTML, CSS e JS.
+- "Front-End, minha primeira página web!", onde aprendi conceitos básicos de HTML, CSS e JS.
+
+## Cursos em andamento 🔄 
+
+- "Análise de dados | Meus primeiros passos em Python!"
+
 ## Referência
 
  - [Programaria](https://www.programaria.org/)
